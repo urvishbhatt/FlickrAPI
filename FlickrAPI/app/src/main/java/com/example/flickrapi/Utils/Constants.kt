@@ -15,4 +15,3 @@ object Constants {
     const val BASE_URL = "https://api.flickr.com"
     const val SEARCH_URL = "/services/rest/"
 }
-
