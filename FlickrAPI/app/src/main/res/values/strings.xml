@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlickrAPI</string>
+    <string name="newest">Newest</string>
+    <string name="old">Oldest</string>
+</resources>
